@@ -31,5 +31,10 @@ body {
             color: white;
         }
   label {
+    text-align: center;
     color: white;
   }
+
+option {
+  text-align: center;
+}
